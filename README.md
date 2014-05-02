@@ -1,4 +1,5 @@
 mobileapp
 =========
 
-Bookworms' Library mobile app
+Official Bookworms' Library mobile app
+
